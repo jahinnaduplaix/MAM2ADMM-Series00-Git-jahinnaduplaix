@@ -8,3 +8,12 @@ Here is a resource for learning the basics of Git and GitHub through practice. I
 ## Illustration
 
 ![adding an image from the internet with a URL](https://i.pinimg.com/736x/76/3c/c5/763cc58e033253a31a32f050b471d335.jpg)
+
+“Who took my picture during Mr. Mottet's class??” 
+
+More seriously I'm happy to learn how to use Git because it will allow me to keep track of my changes. 
+I think it will also improve my ability to organize my data (and share it).
+I want to improve my Python and R skills because my internship project requires me to perform statistics and data analysis, and these tools are very helpful.
+I know I'm struggling with Python, but I'm going to stick with it because I know it will be very useful!
+
+
