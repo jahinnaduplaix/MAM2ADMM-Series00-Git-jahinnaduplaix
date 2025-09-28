@@ -16,4 +16,5 @@ I think it will also improve my ability to organize my data (and share it).
 I want to improve my Python and R skills because my internship project requires me to perform statistics and data analysis, and these tools are very helpful.
 I know I'm struggling with Python, but I'm going to stick with it because I know it will be very useful!
 
-
+## Illustration code
+![Capture](MAM2ADMM-Series00-Git-jahinnaduplaix/Image/Capture.png)
