@@ -17,4 +17,5 @@ I want to improve my Python and R skills because my internship project requires 
 I know I'm struggling with Python, but I'm going to stick with it because I know it will be very useful!
 
 ## Illustration code
-![Capture](MAM2ADMM-Series00-Git-jahinnaduplaix/Image/Capture.png)
+![Capture](Image/Capture.PNG)
+
