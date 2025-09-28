@@ -19,3 +19,14 @@ I know I'm struggling with Python, but I'm going to stick with it because I know
 ## Illustration code
 ![Capture](Image/Capture.PNG)
 
+## Summary
+
+In this project, I learned how to:
+- Create a GitHub repository online and clone it locally on my computer
+- Create and work in a branch
+- Modify a README.md file
+- Add online and local images
+- Make commits and push to GitHub
+
+This work took me about 2 hours.
+
